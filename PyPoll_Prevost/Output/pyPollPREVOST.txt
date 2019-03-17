@@ -1,0 +1,7 @@
+Total Votes: 3521001
+Counter({'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630})
+Khan: Total: 2218231/Percent: 0.6300001050837531
+Li: 492940/Percent: 0.13999996023857988
+Correy: 704200/Percent: 0.19999994319797126
+O'Tooley: 105630/Percent: 0.02999999147969569
+Winner: ['Khan', 2218231]
